@@ -1,5 +1,5 @@
 [package]
-name = "crossbeam"
+name = "lumos-crossbeam"
 # When publishing a new version:
 # - Update CHANGELOG.md
 # - Update README.md
@@ -8,8 +8,8 @@ version = "0.8.2"
 edition = "2018"
 rust-version = "1.38"
 license = "MIT OR Apache-2.0"
-repository = "https://github.com/crossbeam-rs/crossbeam"
-homepage = "https://github.com/crossbeam-rs/crossbeam"
+repository = "https://github.com/gaokanxu/lumos-crossbeam"
+homepage = "https://www.uuhb.com"
 description = "Tools for concurrent programming"
 keywords = ["atomic", "garbage", "non-blocking", "lock-free", "rcu"]
 categories = ["concurrency", "memory-management", "data-structures", "no-std"]
