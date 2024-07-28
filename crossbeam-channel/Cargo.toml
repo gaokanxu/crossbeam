@@ -1,5 +1,5 @@
 [package]
-name = "crossbeam-channel"
+name = "lumos-crossbeam-channel"
 # When publishing a new version:
 # - Update CHANGELOG.md
 # - Update README.md
