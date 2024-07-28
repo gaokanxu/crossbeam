@@ -1,5 +1,5 @@
 [package]
-name = "crossbeam-utils"
+name = "lumos-crossbeam-utils"
 # When publishing a new version:
 # - Update CHANGELOG.md
 # - Update README.md
