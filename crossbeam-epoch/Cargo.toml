@@ -1,5 +1,5 @@
 [package]
-name = "lumos-crossbeam-epoch"
+name = "crossbeam-epoch"
 # When publishing a new version:
 # - Update CHANGELOG.md
 # - Update README.md
