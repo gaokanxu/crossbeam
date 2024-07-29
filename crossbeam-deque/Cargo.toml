@@ -1,5 +1,5 @@
 [package]
-name = "lumos-crossbeam-deque"
+name = "crossbeam-deque"
 # When publishing a new version:
 # - Update CHANGELOG.md
 # - Update README.md
