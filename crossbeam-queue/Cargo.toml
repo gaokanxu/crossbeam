@@ -1,5 +1,5 @@
 [package]
-name = "lumos-crossbeam-queue"
+name = "crossbeam-queue"
 # When publishing a new version:
 # - Update CHANGELOG.md
 # - Update README.md
